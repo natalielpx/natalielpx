@@ -1,5 +1,9 @@
 ## Hi there 👋, this is Natalie
 
+✔️ vibes ✨  
+✔️ coding ⌨️  
+🚫 vibe-coding 🚫  
+
 **I’m a software engineering student at 42 Paris who:**  
 
 👉 Enjoys poking around with low-level languages  
