@@ -8,7 +8,7 @@
 
 👉 Enjoys poking around with low-level languages  
 ☀️ Works on light-themed IDEs during the day  
-🕸️ Despises try/catch with a disproportionate level of passion  
+🕸️ Avoids try/catch like the plague (yet who didn't catch covid at least once or twice?)
 
 
 Currently tinkering with **DevOps** tools - Docker, Ansible, Kubernetes, etc.
